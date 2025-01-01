@@ -1,4 +1,4 @@
-## Hi, I'm Stefan!
+## Hi, I'm Stefan! 👋
 
 💻I'm currently pursuing a bachelor's degree in Computer Engineering at the [University of Bucharest](https://unibuc.ro/). <br/>
 💡I enjoy learning new concepts and I'm always looking to expand my skills.
